@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Rehana  
+# Hey there 👋, I'm Rehana  
 ### 💻 Full Stack Web Developer | Cloud Enthusiast | BCA Final Year Student  
 > Exploring code, clouds ☁️ and the chaos of human behavior 🌪️ — one bug at a time.
 
@@ -6,7 +6,8 @@ I'm deeply passionate about building expressive, fun, and secure web application
 ---
 
 ## 🚀 Let's Connect
-- 🐦 Twitter: [@RayHanah04][(https://x.com/RayHanah04?t=50aIGl3R0NPfPepMvhKEGQ&s=09)]
+- 🐦 Twitter: @RayHanah04
+- [https://x.com/RayHanah04?t=50aIGl3R0NPfPepMvhKEGQ&s=09]
 
 ---
 
