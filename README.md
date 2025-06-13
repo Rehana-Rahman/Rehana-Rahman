@@ -1,8 +1,8 @@
 # Hey there 👋, I'm Rehana  
-### 💻 Full Stack Web Developer | Cloud Enthusiast | BCA Final Year Student  
-> Exploring code, clouds ☁️ and the chaos of human behavior 🌪️ — one bug at a time.
+### 💻 Full Stack Web Developer | Cloud Enthusiast | Tech Student  
+> Exploring code, clouds ☁️ and the chaos of human behavior 🌪️, one bug at a time.
 
-I'm deeply passionate about building expressive, fun, and secure web applications — and I dream of becoming a Cloud Architect. Currently working on projects involving Firebase, MongoDB, Express, Node.js, and React.
+I'm deeply passionate about building expressive, fun, and secure web applications and I dream of becoming a Cloud Architect. Currently working on projects involving Firebase, MongoDB, Express, Node.js, and React.
 ---
 
 ## 🚀 Let's Connect
@@ -13,7 +13,7 @@ I'm deeply passionate about building expressive, fun, and secure web application
 
 ## 🌟 Featured Project  
 ### 💬 [BWMC Unfiltered](https://github.com/Rehana-Rahman/bwmc-unfiltered)  
-An anonymous gossip and discussion platform designed for students to share thoughts freely — safely and stylishly.  
+An anonymous gossip and discussion platform designed for students to share thoughts freely, safely and stylishly.  
 Built with:  
 `MongoDB` `Express.js` `Node.js` `Firebase` `React`  
 
