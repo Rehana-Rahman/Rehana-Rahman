@@ -1,4 +1,4 @@
-# 🌸 Rehana 「レハナ」  
+# Hey 👋 , I'm Rehana 
 ### 💻 Full Stack Web Developer | ☁️ Cloud Architect in Progress  
 > Writing clean code with a side of cuteness. Built different. Built deployable. 🛠️
 
@@ -15,9 +15,9 @@
 ## 🧠 Who Am I?
 
 - 💻 Full-stack developer with a cloud-first mindset  
-- 🚀 Building scalable web apps using **MERN**, Firebase, and a sprinkle of chaos  
-- 💅 UI snob. Backend brawler. Deployment demon.  
-- 🐾 Addicted to problem-solving & running cute cat GIFs in my README
+- Building scalable web apps using **MERN**, Firebase, and I use Arch btw  
+- UI snob. Backend brawler. Deployment demon.  
+- Addicted to problem-solving and data structures 
 
 ---
 
@@ -25,28 +25,38 @@
 
 ---
 
-## ⚙️ Tools & Tech I Jam With  
+<h2 align="center">Connect with me</h2>
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" /></td>
-    <td><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /></td>
-    <td><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" /></td>
-    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express" /></td>
-    <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" /></td>
-    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" /></td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://x.com/RayHanah04?t=50aIGl3R0NPfPepMvhKEGQ&s=09" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+  </a>
+  <a href="https://leetcode.com/rehana-rahman/" target="_blank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+  </a>
+  <a href="https://discord.com/users/masterblueray" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+  </a>
+</p>
+
+---
+
+<h2 align="center">Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/nodejs.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/react.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/firebase.png"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-shadow-tal-revivo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/postman-api.png"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
+  <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
 
 ## 🌟 Featured Project
 
