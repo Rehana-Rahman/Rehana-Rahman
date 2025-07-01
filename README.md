@@ -97,6 +97,16 @@
 
 ## 🐱 Fun Zone
 
+I read fiction and attempt to write poetry.
+
+Will probably beat you in chess and then write a haiku about it.
+
+I watch anime, read manga and occasionally question reality.
+
+I yap in English, Tamil, Hindi, Urdu — and sarcasm.
+
+Will ghost you for a good book, a good game, or good biryani.
+
 <p align="center">
   <img src="dodtabilla.gif" width="200px" />
 </p>
