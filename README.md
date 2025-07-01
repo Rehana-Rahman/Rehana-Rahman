@@ -25,17 +25,18 @@
 
 ---
 
+
 <h2 align="center">Connect with me</h2>
 
 <p align="center">
   <a href="https://x.com/RayHanah04?t=50aIGl3R0NPfPepMvhKEGQ&s=09" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://skillicons.dev/icons?i=twitter" width="48" />
   </a>
   <a href="https://leetcode.com/rehana-rahman/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
+    <img src="https://skillicons.dev/icons?i=leetcode" width="48" />
   </a>
   <a href="https://discord.com/users/masterblueray" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="40" />
+    <img src="https://skillicons.dev/icons?i=discord" width="48" />
   </a>
 </p>
 
@@ -44,9 +45,8 @@
 <h2 align="center">Languages & Tools</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,postman,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,postman,linux,vscode&theme=light" />
 </p>
----
 
 
 ## 🌟 Featured Project
