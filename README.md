@@ -6,12 +6,6 @@
 
 <img src="hinata.gif" width="100%" />
 
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rehana-Rahman.Rehana-Rahman)
-
----
-
 ## Who Am I?
 
 - 💻 Full-stack developer with a cloud-first mindset  
@@ -129,3 +123,6 @@ Will ghost you for a good book, a good game, or good biryani.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rehana-Rahman.Rehana-Rahman)
+
