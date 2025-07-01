@@ -13,8 +13,6 @@
 - UI snob. Backend brawler. Deployment demon.  
 - Addicted to problem-solving and data structures 
 
----
-
 <img src="shizuku.gif" width="100%" />
 
 ---
