@@ -26,23 +26,27 @@
 ---
 
 ## ⚙️ Tools & Tech I Jam With  
-**Languages & Frameworks:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)  
-![HTML](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5)  
-![CSS](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=flat&logo=express)  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)  
 
-**Other Tools:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)  
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code)  
-
----
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" /></td>
+    <td><img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" /></td>
+    <td><img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" /></td>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express" /></td>
+    <td><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb" /></td>
+    <td><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman" /></td>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code" /></td>
+  </tr>
+</table>
 
 ## 🌟 Featured Project
 
