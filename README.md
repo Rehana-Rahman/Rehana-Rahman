@@ -4,7 +4,8 @@
 
 ---
 
-<img src="assets/gifs/hinata.gif" width="100%" />
+img src="hinata.gif" width="100%" />
+
 
 ---
 
