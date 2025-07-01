@@ -4,8 +4,7 @@
 
 ---
 
-img src="hinata.gif" width="100%" />
-
+<img src="hinata.gif" width="100%" />
 
 ---
 
@@ -22,7 +21,7 @@ img src="hinata.gif" width="100%" />
 
 ---
 
-<img src="assets/gifs/horimiya.gif" width="100%" />
+<img src="shizuku.gif" width="100%" />
 
 ---
 
@@ -48,14 +47,14 @@ img src="hinata.gif" width="100%" />
 > 🌐 Built with MERN + Firebase  
 > 💡 Realtime, fully anonymous, stylish AF, secure  
 
-<img src="assets/gifs/kaori.gif" width="100%" />
+<img src="kaori.gif" width="100%" />
 
 ---
 
 ## 🐱 Fun Zone
 
 <p align="center">
-  <img src="assets/gifs/dodtabilla.gif" width="200px" />
+  <img src="dodtabilla.gif" width="200px" />
 </p>
 
 ---
