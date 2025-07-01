@@ -4,7 +4,7 @@
 
 ---
 
-<img src="https://your-host.com/hinata.gif" width="100%" />
+<img src="assets/gifs/hinata.gif" width="100%" />
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-<img src="https://your-host.com/horimiya.gif" width="100%" />
+<img src="assets/gifs/horimiya.gif" width="100%" />
 
 ---
 
@@ -47,14 +47,14 @@
 > 🌐 Built with MERN + Firebase  
 > 💡 Realtime, fully anonymous, stylish AF, secure  
 
-<img src="https://your-host.com/kaori.gif" width="100%" />
+<img src="assets/gifs/kaori.gif" width="100%" />
 
 ---
 
 ## 🐱 Fun Zone
 
 <p align="center">
-  <img src="https://your-host.com/running-cat.gif" width="200px" />
+  <img src="assets/gifs/dodtabilla.gif" width="200px" />
 </p>
 
 ---
