@@ -120,9 +120,9 @@ Will ghost you for a good book, a good game, or good biryani.
 
 ---
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rehana-Rahman.Rehana-Rahman)
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rehana-Rahman.Rehana-Rahman)
-
