@@ -82,12 +82,6 @@
 
 ---
 
-<h2 align="center">Languages & Tools</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,postman,linux,vscode&theme=light" />
-</p>
-
 
 ## 🌟 Featured Project
 
