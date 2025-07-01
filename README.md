@@ -109,8 +109,9 @@ Will ghost you for a good book, a good game, or good biryani.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rehana-Rahman&show_icons=true&theme=tokyonight&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rehana-Rahman&layout=compact&theme=tokyonight" width="48%" />
-</p>
+  <img 
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehana-Rahman&show_icons=true&locale=en&layout=compact" alt="Rehana-Rahman" /></p>
 
 ---
 
