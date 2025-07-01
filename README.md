@@ -29,16 +29,23 @@
 
 <p align="center">
   <a href="https://x.com/RayHanah04?t=50aIGl3R0NPfPepMvhKEGQ&s=09" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/>
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
   </a>
   <a href="https://leetcode.com/rehana-rahman/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/>
+    <img src="https://skillicons.dev/icons?i=leetcode" width="40" />
   </a>
   <a href="https://discord.com/users/masterblueray" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
+    <img src="https://skillicons.dev/icons?i=discord" width="40" />
   </a>
 </p>
 
+---
+
+<h2 align="center">Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,firebase,git,postman,linux,vscode&perline=6" />
+</p>
 ---
 
 <h2 align="center">Languages & Tools</h2>
