@@ -1,6 +1,6 @@
 # Hey 👋 , I'm Rehana 
-### 💻 Full Stack Web Developer | ☁️ Cloud Architect in Progress  
-> Writing clean code with a side of cuteness. Built different. Built deployable. 🛠️
+### 💻 Full Stack Web Developer | Cloud Architect in Progress  
+> Writing a little bit of code with a lot of creativity. Built different. Built deployable. 🛠️
 
 ---
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 Who Am I?
+## Who Am I?
 
 - 💻 Full-stack developer with a cloud-first mindset  
 - Building scalable web apps using **MERN**, Firebase, and I use Arch btw  
