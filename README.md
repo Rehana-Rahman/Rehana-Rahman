@@ -2,6 +2,8 @@
 ### 💻 Full Stack Web Developer | Cloud Enthusiast | Tech Student  
 > Exploring code, clouds ☁️ and the chaos of human behavior 🌪️, one bug at a time.
 
+![Visitor Count](https://count.getloli.com/get/@RayHanah04?theme=gelbooru-h)
+
 I'm deeply passionate about building expressive, fun, and secure web applications and I dream of becoming a Cloud Architect. Currently working on projects involving Firebase, MongoDB, Express, Node.js, and React.
 ---
 
