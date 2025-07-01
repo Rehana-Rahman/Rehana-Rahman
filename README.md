@@ -112,14 +112,6 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 🐦 Twitter: [@RayHanah04](https://x.com/RayHanah04)
-- 🧠 DM me for cloud chat, dev collabs or cat GIFs
-- ⚡ Let’s scale the web and still make it cute
-
----
-
 > *"Code like nobody's watching, but push like everyone's reviewing."* — probably you, one day.
 
 ---
