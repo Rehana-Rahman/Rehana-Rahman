@@ -8,7 +8,7 @@
 
 ---
 
-![Visitor Count](https://count.getloli.com/get/@RayHanah04?theme=gelbooru-b)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rehana-Rahman.Rehana-Rahman)
 
 ---
 
