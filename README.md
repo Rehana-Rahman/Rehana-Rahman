@@ -8,6 +8,10 @@
 
 ## Who Am I?
 
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Blockchain+Developer;Full+Stack+Developer;DevOps+Engineer" alt="Typing SVG" />
+</div>
+
 - 💻 Full-stack developer with a cloud-first mindset  
 - Building scalable web apps using **MERN**, Firebase, and I use Arch btw  
 - UI snob. Backend brawler. Deployment demon.  
