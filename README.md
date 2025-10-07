@@ -9,7 +9,7 @@
 ## who am i?
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=python dev;NLP engineer;RAG engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=python%20dev%0ANLP%20engineer%0ARAG%20engineer" alt="Typing SVG" />
 </div>
 
 <img src="shizuku.gif" width="100%" />
@@ -76,7 +76,7 @@
 
 ## featured project
 
-### 💬 [BWMC Unfiltered](https://github.com/Rehana-Rahman/bwmc-unfiltered)
+### [BWMC Unfiltered](https://github.com/Rehana-Rahman/bwmc-unfiltered)
 
 > An anonymous gossip & discussion platform for students  
 > Built with MERN + Firebase  
@@ -88,7 +88,7 @@
 
 ## 🐱 fun zone
 
-I read fiction and attempt to write poetry.
+i read fiction and attempt to write poetry.
 
 will probably beat you in chess and then write a haiku about it.
 
@@ -104,7 +104,7 @@ will ghost you for a good book, a good game, or good biryani.
 
 ---
 
-## xp
+## stats xp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rehana-Rahman&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats">
