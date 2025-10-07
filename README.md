@@ -9,7 +9,7 @@
 ## who am i?
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=python%20dev%0ANLP%20engineer%0ARAG%20engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=python%20dev|NLP%20engineer|RAG%20engineer" alt="Typing SVG" />
 </div>
 
 <img src="shizuku.gif" width="100%" />
@@ -94,7 +94,7 @@ will probably beat you in chess and then write a haiku about it.
 
 i watch anime, read manga and occasionally question reality.
 
-i yap in English, Tamil, Hindi, Urdu — and sarcasm.
+i yap in English, Tamil, Hindi, Urdu and sarcasm.
 
 will ghost you for a good book, a good game, or good biryani.
 
