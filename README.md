@@ -9,13 +9,7 @@
 ## who am i?
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=python%20dev" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=NLP%20engineer" alt="Typing SVG" />
-</div>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=2000&pause=1000&color=36BCF7FF&center=true&vCenter=true&lines=RAG%20engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=python%20dev|NLP%20engineer|RAG%20engineer&repeat=true&erase=true" alt="Typing SVG" />
 </div>
 
 <img src="shizuku.gif" width="100%" />
