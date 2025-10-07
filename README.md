@@ -1,34 +1,29 @@
-# Hey 👋 , I'm Rehana 
-### 💻 Full Stack Web Developer | Cloud Architect in Progress  
-> Writing a little bit of code with a lot of creativity. Built different. Built deployable. 🛠️
+# yo wsg, i'm rehana 
+### my field of interests| Python | NLP | RAG  
+> termux btw
 
 ---
 
 <img src="hinata.gif" width="100%" />
 
-## Who Am I?
+## who am i?
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=Cloud+Engineer;Full+Stack+Developer;DevOps+Engineer;AI/ML+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=500&height=70&lines=python dev;NLP engineer;RAG engineer" alt="Typing SVG" />
 </div>
-
-- 💻 Full-stack developer with a cloud-first mindset  
-- Building scalable web apps using **MERN**, Firebase, and I use Arch btw  
-- UI snob. Backend brawler. Deployment demon.  
-- Addicted to problem-solving and data structures 
 
 <img src="shizuku.gif" width="100%" />
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
-  <a href="https://x.com/RayHanah04?t=50aIGl3R0NPfPepMvhKEGQ&s=09" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RayHanah04" height="30" width="40" />
+  <a href="https://x.com/raydotsh?t=50aIGl3R0NPfPepMvhKEGQ&s=09" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="raydotsh" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/rehana-rahman/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rehana-rahman" height="30" width="40" />
-  </a>
+  <a href="https://www.kaggle.com/rehanarahman" target="_blank">
+    <img align="center" src="https://www.kaggle.com/static/images/site-logo.svg" alt="Kaggle Logo" width="50" height="50" />
+</a>
   <a href="https://discord.com/users/masterblueray" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="masterblueray" height="30" width="40" />
   </a>
@@ -36,7 +31,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools</h3>
+<h3 align="left">Languages & Tools</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -79,29 +74,29 @@
 ---
 
 
-## 🌟 Featured Project
+## featured project
 
 ### 💬 [BWMC Unfiltered](https://github.com/Rehana-Rahman/bwmc-unfiltered)
 
-> 🔐 An anonymous gossip & discussion platform for students  
-> 🌐 Built with MERN + Firebase  
-> 💡 Realtime, fully anonymous, stylish AF, secure  
+> An anonymous gossip & discussion platform for students  
+> Built with MERN + Firebase  
+> Realtime, fully anonymous, stylish, secure  
 
 <img src="kaori.gif" width="100%" />
 
 ---
 
-## 🐱 Fun Zone
+## 🐱 fun zone
 
 I read fiction and attempt to write poetry.
 
-Will probably beat you in chess and then write a haiku about it.
+will probably beat you in chess and then write a haiku about it.
 
-I watch anime, read manga and occasionally question reality.
+i watch anime, read manga and occasionally question reality.
 
-I yap in English, Tamil, Hindi, Urdu — and sarcasm.
+i yap in English, Tamil, Hindi, Urdu — and sarcasm.
 
-Will ghost you for a good book, a good game, or good biryani.
+will ghost you for a good book, a good game, or good biryani.
 
 <p align="center">
   <img src="dodtabilla.gif" width="200px" />
@@ -109,7 +104,7 @@ Will ghost you for a good book, a good game, or good biryani.
 
 ---
 
-## 📊 GitHub Stats
+## xp
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rehana-Rahman&show_icons=true&theme=radical&hide_border=true" alt="Your GitHub Stats">
@@ -117,9 +112,6 @@ Will ghost you for a good book, a good game, or good biryani.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rehana-Rahman&show_icons=true&locale=en&layout=compact" alt="Rehana-Rahman" /></p>
 
----
-
-> *"Code like nobody's watching, but push like everyone's reviewing."* — probably you, one day.
 
 ---
 
