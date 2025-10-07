@@ -1,5 +1,5 @@
 # yo wsg, i'm rehana 
-### my field of interests| Python | NLP | RAG  
+### field of interests: Python | NLP | RAG  
 > termux btw
 
 ---
