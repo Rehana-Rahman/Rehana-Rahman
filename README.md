@@ -9,7 +9,7 @@
 ## who am i?
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=python%20dev|NLP%20engineer|RAG%20engineer&repeat=true&erase=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&height=70&lines=python+dev;NLP+engineer;RAG+engineer&repeat=true&erase=true" alt="Typing SVG" />
 </div>
 
 <img src="shizuku.gif" width="100%" />
@@ -69,6 +69,11 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
   </a>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFCA28?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white"/>
 </p>
 
 ---
