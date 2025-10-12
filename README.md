@@ -1,4 +1,4 @@
-View more about me at rehanarahman.bearblog.dev
+View more about me at (rehanarahman.bearblog.dev)
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
