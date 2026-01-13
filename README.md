@@ -1,4 +1,4 @@
-# hey, i'm rehana! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# yo, i'm rehana! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ```python
   class Rehana:
     def __init__(self):
@@ -9,7 +9,7 @@
 
 ## whoami
 
-> computer Applications graduate aiming to become a backend developer. I learn by building, not just reading, and I enjoy discussing systems, web, and real-world engineering problems.
+> computer applications graduate aiming to become a backend developer. I learn by building, not just reading, and I enjoy discussing systems, web, and real-world engineering problems.
 > 
 > i’ve interned across multiple programs and startups, working on practical projects that pushed me beyond tutorials. Always looking for opportunities to grow, ship, and contribute.
 > 
