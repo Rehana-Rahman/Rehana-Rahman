@@ -43,7 +43,7 @@
 ## more
 * Read my blogs at [blogsite](https://rehanarahman.bearblog.dev)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Rehana-Rahman.Rehana-Rahman)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raydotsh.raydotsh)
 
 
 <p align="center">
