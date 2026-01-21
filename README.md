@@ -13,7 +13,7 @@
 > 
 > i’ve interned across multiple programs and startups, working on practical projects that pushed me beyond tutorials. Always looking for opportunities to grow, ship, and contribute.
 > 
-> outside tech: chess, books, anime, social media management, and an unhealthy obsession with Neovim configs.
+> outside tech: chess, books, anime, social media management, and an unhealthy obsession with neovim configs.
 
 ## skills
 
@@ -41,7 +41,7 @@
 </p>
 
 ## more
-* Read my blogs at [blogsite](https://rehanarahman.bearblog.dev)
+* Read my blogs at [bearblog](https://rehanarahman.bearblog.dev)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raydotsh.raydotsh)
 
