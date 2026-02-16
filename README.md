@@ -9,15 +9,11 @@
 
 ## whoami
 
-> computer applications graduate aiming to become a backend developer. I learn by building, not just reading, and I enjoy discussing systems, web, and real-world engineering problems.
+> computer applications graduate aiming to become a backend developer. i learn by building.
 > 
-> i’ve interned across multiple programs and startups, working on practical projects that pushed me beyond tutorials. Always looking for opportunities to grow, ship, and contribute.
+> i’ve interned across multiple programs and startups, working on practical projects.
 > 
-> outside tech: chess, books, anime, social media management, and an unhealthy obsession with neovim configs.
-
-## skills
-
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,js,react,nodejs,tailwind)](https://skillicons.dev)
+> outside tech: chess, books, anime, manga, cinephile, digital marketing as side gig.
 
 ## tools
 
@@ -41,7 +37,7 @@
 </p>
 
 ## more
-* Read my blogs at [bearblog](https://rehanarahman.bearblog.dev)
+* my portfolio @ [mysite](https://raydotsh.github.io)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=raydotsh.raydotsh)
 
